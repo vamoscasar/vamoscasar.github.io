@@ -456,7 +456,7 @@ h2 {margin:0;}
 }
 
 #qbootstrap-slider-hero {
-  min-height: 800px;
+  min-height: 100vh;
   background: #fff url(../images/loader.gif) no-repeat center center;
 }
 #qbootstrap-slider-hero .flexslider {
@@ -512,7 +512,7 @@ h2 {margin:0;}
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner {
   display: table-cell;
   vertical-align: middle;
-  height: 800px;
+  height: 100vh;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h1, #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h2 {
   margin: 0;
@@ -622,7 +622,7 @@ h2 {margin:0;}
 }
 @media screen and (max-width: 768px) {
   #qbootstrap-couple h3 {
-    font-size: 35px;
+    font-size: 28px;
   }
 }
 #qbootstrap-couple span {
