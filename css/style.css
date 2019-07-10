@@ -331,7 +331,7 @@ h2 {margin:0;}
 @media screen and (max-width: 768px) {
   .qbootstrap-cover,
   .qbootstrap-hero {
-    height: 700px;
+    height: 100vh;
   }
 }
 
