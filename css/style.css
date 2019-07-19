@@ -708,7 +708,7 @@ h2 {margin:0;}
   margin-bottom: 0;
   font-size: 70px;
   color: #fff;
-	line-height:60px;
+	line-height: 55px;
 }
 #qbootstrap-countdown .countdown span {
   margin: 0 25px;
@@ -937,6 +937,7 @@ h2 {margin:0;}
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
+	line-height: 1.5em;
 }
 
 .timeline-body > p + p {
@@ -1660,7 +1661,7 @@ h2 {margin:0;}
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
-    padding-bottom: 2em;
+    padding-bottom: 0em;
   }
 }
 
